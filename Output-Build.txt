@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: comparison, Configuration: Debug Any CPU ------
+1>C:\Users\standard\source\repos\comparison\comparison\Form1.cs(54,36,54,36): error CS1002: ; expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
